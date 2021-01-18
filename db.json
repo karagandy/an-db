@@ -1077,7 +1077,7 @@
             "name": "Ceobe",
             "class": "Caster",
             "rarity": "6",
-            "image": "char_2013_cerber",
+            "image": "ceobe",
             "server": "2"
         },
         {
@@ -1085,7 +1085,7 @@
             "name": "Nian",
             "class": "Defender",
             "rarity": "6",
-            "image": "char_2014_nian",
+            "image": "char_nian",
             "server": "2"
         },
         {
@@ -1245,7 +1245,7 @@
             "name": "Eunectes",
             "class": "Defender",
             "rarity": "6",
-            "image": "char_416_zumama",
+            "image": "eunectes",
             "server": "1"
         },
         {
